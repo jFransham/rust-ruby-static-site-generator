@@ -1,0 +1,7 @@
+[package]
+name = "static-site-generator-rs"
+version = "0.1.0"
+authors = ["Jef <jack@liveondemand.com>"]
+
+[dependencies]
+mrusty = "*"
